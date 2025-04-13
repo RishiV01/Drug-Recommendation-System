@@ -35,3 +35,7 @@ Installation Steps :-
     Install Python 3.7
     Install all dependencies cmd -python -m pip install --user -r requirements.txt
     Finally run cmd - python app.py
+
+    # use the Google drive link to download the project, The file and databse is too large to share it within the 2 parts 
+
+    https://drive.google.com/file/d/1kXEr4JTPbix80ctkrd6x-HODzBlh4aaM/view?usp=sharing
